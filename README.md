@@ -11,6 +11,7 @@ The **Expense Tracker** is a user-friendly application designed to help individu
 - **Format Amounts**: Automatically format amounts with commas for better readability.
 - **Export Data**: Export expense data to a CSV file for easy sharing and analysis.
 - **Generate Reports**: Visualize expenses through pie charts, providing insights into spending patterns.
+![Expense Tracker (lite view)](https://github.com/user-attachments/assets/e5f74512-9d5e-4d6d-880f-ce37cf4442cf)
 
 ## Features Include:
 
