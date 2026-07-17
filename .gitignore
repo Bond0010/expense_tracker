@@ -1,0 +1,10 @@
+budget.zip
+node_modules/
+**/node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+.DS_Store
+
